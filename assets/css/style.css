@@ -527,6 +527,24 @@ section {
     left: calc(50% - 20px);
 }
 
+.portfolios .swiper-pagination {
+    margin-top: 20px;
+    position: relative;
+}
+
+.portfolios .swiper-pagination .swiper-pagination-bullet {
+    margin-top: 2rem;
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #2A2A2A;
+}
+
+.portfolios .swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #6C6C6C;
+}
+
 .portfolios-button {
     background-color: #363635;
     width: 60%;
