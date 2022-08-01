@@ -302,7 +302,7 @@ section {
 
 .about .content ul li {
     margin-bottom: 20px;
-    font-size: 1.6vh;
+    font-size: 1rem;
     line-height: 1.6;
     display: flex;
     align-items: center;
@@ -361,7 +361,7 @@ section {
 
 .resume .resume-item ul li {
     padding-bottom: 10px;
-    font-size: 1.2vw;
+    font-size: 1rem;
 }
 
 .resume .resume-item:last-child {
